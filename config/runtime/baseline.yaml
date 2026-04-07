@@ -1,0 +1,3 @@
+service:
+  enabled: true
+  retries: 3
